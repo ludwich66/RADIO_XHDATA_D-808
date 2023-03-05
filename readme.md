@@ -2,11 +2,9 @@ Deutsche Bedienungsanleitung XHDATA D-808<br>
 Bänder: FM Stereo / LW / MW / SW-SSB / AIR <br>
 RDS: RadioDataSystem <br>
 AIR:      118.0 - 137.0 MHz <br>
-UKW (FM):  87.5 - 108.0 MHz <br>
-           64.0 - 108.0 MHz <br>
+UKW (FM):  87.5 - 108.0 MHz / 64.0 - 108.0 MHz <br>
 KW:         1711 - 29999kHz   <br>       
-MW (AM):     522 - 1620 kHz (9k Schritt)  <br>
-             520 - 1710 kHz (10k Schritt) <br>
+MW (AM):     522 - 1620 kHz (9k Schritt) / 520 - 1710 kHz (10k Schritt) <br>
 LW:          150 -  450 kHz <br>
 
 DSP:    Si4735<br>
